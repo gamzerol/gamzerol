@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 It's Gamze 👩🏻✌🏻</h1>
+<h1 align="center">Hi there 👋 I'm Gamze 👩🏻✌🏻</h1>
 <h3 align="center">I'm a self-thought and highly motivated Jr.Front End Developer. Currently, I am working on ReactJS. I am always trying to grow and learn something new. :sparkles:	</h3>
 
 
