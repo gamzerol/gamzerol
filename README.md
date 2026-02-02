@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Gamze 👩🏻✌🏻</h1>
-<h3 align="center">As a Frontend Developer with 5 years of experience, I have a strong background in developing web applications and websites using HTML, CSS, JavaScript, and other frontend technologies. I have experience in creating user interfaces with modern web frameworks and libraries such as React and Next.js. I am proficient in debugging, troubleshooting and optimizing code for performance. :sparkles:	</h3>
+<h3 align="center">As a Frontend Developer I have a strong background in developing web applications and websites using HTML, CSS, JavaScript, and other frontend technologies. I have experience in creating user interfaces with modern web frameworks and libraries such as React and Next.js. I am proficient in debugging, troubleshooting and optimizing code for performance. :sparkles:	</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
