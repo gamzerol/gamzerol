@@ -44,15 +44,6 @@ Git • npm • REST APIs • Performance Optimization • SEO • Debugging
 
 ---
 
-## 📈 Currently Exploring
-
-- Advanced Next.js patterns
-- Frontend system design
-- Performance engineering
-- Scalable architecture for large applications
-
----
-
 ## 🌍 Connect With Me
 
 LinkedIn: (https://www.linkedin.com/in/gamze-erol)
