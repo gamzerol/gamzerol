@@ -12,10 +12,10 @@ I specialize in **React, Next.js and TypeScript**, with a strong focus on clean 
 React • Next.js • TypeScript • JavaScript
 
 ### Styling & UI
-TailwindCSS • Sass • Bootstrap • Responsive Design
+TailwindCSS • Sass • Bootstrap • Styled Components • Responsive Design
 
 ### Tools & Workflow
-Git • npm • REST APIs • Performance Optimization • SEO • Debugging
+Git • npm • REST APIs • Performance Optimization • SEO • Debugging • Jest • Cypress
 
 ---
 
