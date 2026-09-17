@@ -14,7 +14,7 @@ I've been expanding my skills beyond the frontend layer by building full-stack a
 
 I'm especially interested in:
 
-- ⚛️ React & Next.js
+- ⚛️ React, Next.js, NestJS
 - 🏗️ Frontend architecture & system design
 - 📐 Scalable and maintainable codebases
 - ⚡ Web performance & Core Web Vitals
