@@ -10,9 +10,7 @@ I enjoy turning complex requirements into simple and maintainable
 interfaces, while paying attention to the engineering decisions behind
 the product.
 
-Recently, I've also been expanding my skills beyond the frontend layer,
-exploring **backend development, system design, AI-powered applications
-and full-stack architecture**.
+I've been expanding my skills beyond the frontend layer by building full-stack applications with **NestJS, PostgreSQL and Prisma**, while exploring backend development, system design, AI-powered applications and full-stack architecture.
 
 I'm especially interested in:
 
