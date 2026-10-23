@@ -2,7 +2,7 @@
 
 I'm a product-minded analyst and frontend engineer with 5+ years of experience in e-commerce and B2B products.
 
-I started on the engineering side (React, Next.js, TypeScript) and kept getting pulled toward the questions behind the product: where users drop off, which changes actually worked, and what to build next. At Koçtaş I led the GA4 migration and implemented custom event tracking and Google Tag Manager. Now I analyze that kind of data with SQL, Python and Tableau, and I'm moving into Product Analyst and Data Analyst roles.
+I started on the engineering side (React, Next.js, TypeScript) and kept getting pulled toward the questions behind the product: where users drop off, which changes actually worked, and what to build next. I led the GA4 migration and implemented custom event tracking and Google Tag Manager. Now I analyze that kind of data with SQL, Python and Tableau, and I'm moving into Product Analyst and Data Analyst roles.
 
 ## What I do
 
