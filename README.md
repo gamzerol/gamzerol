@@ -1,46 +1,50 @@
-## About Me
+# About Me
 
-I'm a Frontend Engineer with 5+ years of experience building scalable,
-high-performance and user-focused web applications.
+I'm a product-minded analyst and frontend engineer with 5+ years of experience in e-commerce and B2B products.
 
-I mainly work with **React, Next.js and TypeScript**, with a strong interest
-in frontend architecture, performance, clean code and modern UI development.
+I started on the engineering side (React, Next.js, TypeScript) and kept getting pulled toward the questions behind the product: where users drop off, which changes actually worked, and what to build next. At Koçtaş I led the GA4 migration and implemented custom event tracking and Google Tag Manager. Now I analyze that kind of data with SQL, Python and Tableau, and I'm moving into Product Analyst and Data Analyst roles.
 
-I enjoy turning complex requirements into simple and maintainable
-interfaces, while paying attention to the engineering decisions behind
-the product.
+## What I do
 
-I've been expanding my skills beyond the frontend layer by building full-stack applications with **NestJS, PostgreSQL and Prisma**, while exploring backend development, system design, AI-powered applications and full-stack architecture.
+**Product and data analytics**
+- Funnel, conversion and cohort analysis in SQL (PostgreSQL)
+- A/B test evaluation: sample size, balance checks, significance
+- Metric trees, prioritization (RICE), experiment backlogs and product briefs
+- Dashboards in Tableau, scenario models in Excel
 
-I'm especially interested in:
+**Frontend engineering**
+- React, Next.js and TypeScript applications, from design systems to performance work
+- Core Web Vitals, bundle optimization and clean component architecture
+- REST API integration, testing with Jest and React Testing Library
+- Full-stack side projects with NestJS, PostgreSQL and Prisma
 
-- ⚛️ React, Next.js, NestJS
-- 🏗️ Frontend architecture & system design
-- 📐 Scalable and maintainable codebases
-- ⚡ Web performance & Core Web Vitals
-- 🧪 Testing & code quality
-- 🤖 AI-powered applications
-- 🔌 API design & backend development
-- 🎨 Modern UI and component systems
-- 🧠 AI-assisted software development
+## Featured project
 
-## 🛠️ Tech Stack
+**[Toy Store Product Analytics](https://github.com/gamzerol/toy-store-product-analytics)**: a product analytics case study on a teddy bear online store. It covers growth trends, funnel by device, A/B test evaluation, cross-sell, repeat visitors and refunds, and ends in prioritized recommendations, an experiment backlog and a product brief.
+[Live dashboard on Tableau Public](https://public.tableau.com/app/profile/gamze.erol/viz/ToyStoreProductAnalytics/Dashboard)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+## Tech stack
 
+**Analytics**
 
-## 🌍 Connect With Me
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 
-LinkedIn: (https://www.linkedin.com/in/gamze-erol)
-Medium: (https://medium.com/@erol.gmze)
+**Frontend and full-stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+## Connect with me
+
+- LinkedIn: [linkedin.com/in/gamze-erol](https://www.linkedin.com/in/gamze-erol)
+- Medium: [medium.com/@erol.gmze](https://medium.com/@erol.gmze)
