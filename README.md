@@ -1,38 +1,17 @@
 # About Me
 
-I'm a product-minded analyst and frontend engineer with 5+ years of experience in e-commerce and B2B products.
+I'm a frontend engineer with 5+ years of experience building e-commerce and B2B web products.
 
-I started on the engineering side (React, Next.js, TypeScript) and kept getting pulled toward the questions behind the product: where users drop off, which changes actually worked, and what to build next. I led the GA4 migration and implemented custom event tracking and Google Tag Manager. Now I analyze that kind of data with SQL, Python and Tableau, and I'm moving into Product Analyst and Data Analyst roles.
-
-## What I do
-
-**Product and data analytics**
-- Funnel, conversion and cohort analysis in SQL (PostgreSQL)
-- A/B test evaluation: sample size, balance checks, significance
-- Metric trees, prioritization (RICE), experiment backlogs and product briefs
-- Dashboards in Tableau, scenario models in Excel
+I work primarily with React, Next.js and TypeScript, and I care about the details that make an interface feel fast and reliable: clean component architecture, performance, accessibility and testability.
 
 **Frontend engineering**
 - React, Next.js and TypeScript applications, from design systems to performance work
 - Core Web Vitals, bundle optimization and clean component architecture
+- Reusable, well-structured component architecture and state management
 - REST API integration, testing with Jest and React Testing Library
 - Full-stack side projects with NestJS, PostgreSQL and Prisma
 
-## Featured project
-
-**[Toy Store Product Analytics](https://github.com/gamzerol/toy-store-product-analytics)**: a product analytics case study on a teddy bear online store. It covers growth trends, funnel by device, A/B test evaluation, cross-sell, repeat visitors and refunds, and ends in prioritized recommendations, an experiment backlog and a product brief.
-[Live dashboard on Tableau Public](https://public.tableau.com/app/profile/gamze.erol/viz/ToyStoreProductAnalytics/Dashboard)
-
 ## Tech stack
-
-**Analytics**
-
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![GTM](https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 
 **Frontend and full-stack**
 
